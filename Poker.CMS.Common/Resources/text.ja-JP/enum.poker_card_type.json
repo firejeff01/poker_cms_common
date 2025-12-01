@@ -1,0 +1,12 @@
+{
+  "high_card": "ハイカード",
+  "one_pair": "ペア",
+  "two_pair": "ダブルペア",
+  "three_of_a_kind": "三条",
+  "straight": "順子",
+  "flush": "同花",
+  "full_house": "ひょうたん",
+  "four_of_a_kind": "鉄の枝",
+  "straight_flush": "フラッシュ",
+  "royal_flush": "ロイヤルフラッシュ"
+}

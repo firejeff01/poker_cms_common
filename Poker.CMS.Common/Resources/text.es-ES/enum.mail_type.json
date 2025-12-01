@@ -1,0 +1,14 @@
+{
+  "general": "General",
+  "warning": "Advertencia",
+  "announcement": "Anuncio",
+  "event": "Evento",
+  "advertisement": "Anuncio",
+  "purchase": "Compra (por ejemplo, compra en la tienda)",
+  "reminder": "Recordatorio",
+  "notification": "Notificación (por ejemplo, nueva función)",
+  "tutorial": "Guía",
+  "bug_report": "Informe de error",
+  "complaint": "Denuncia",
+  "other": "Otro"
+}

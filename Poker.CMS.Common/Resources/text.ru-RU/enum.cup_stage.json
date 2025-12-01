@@ -1,0 +1,15 @@
+{
+  "no_started": "Не начато",
+  "preliminary": "Отборочный этап",
+  "money_bubble": "Денежный баббл",
+  "in_the_money": "В призах",
+  "final_table_bubble": "Баббл финального стола",
+  "final_table": "Финальный стол",
+  "results_finalized": "Результаты зафиксированы",
+  "payouts": "Выплаты призов",
+  "leaderboard_display": "Отображение таблицы лидеров",
+  "cancel_cup": "Отменить турнир",
+  "refund_in_progress": "Возврат средств",
+  "game_over": "Закрыть турнир",
+  "invalid": "Недействительный"
+}

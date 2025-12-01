@@ -1,0 +1,18 @@
+{
+  "multi_account": "多帳號",
+  "same_device_or_ip_or_fingerprint_multiple_accounts": "同設備 / 同 IP / 同指紋發現多筆帳號登入紀錄",
+  "shared_account": "共用帳號",
+  "account_logged_in_multiple_places_short_time": "同一帳號在短時間內多地同時登入，疑似共用帳號",
+  "all_in_anomaly": "All-in 異常",
+  "player_performs_all_in_frequently_higher_than_normal": "玩家短時間內多次進行All-in操作，頻率高於一般玩家",
+  "one_way_chips": "單向讓分",
+  "chips_flow_one_direction_repeatedly_to_specific_account": "玩家籌碼單向流向特定帳號，連續多局相同模式",
+  "tournament_anomaly": "賽事異常",
+  "cheating_or_system_error_detected_during_tournament": "賽事運行中發現作弊線索或系統計算錯誤",
+  "suspicious_login": "異地登入",
+  "suspicious_login_from_different_location_or_device": "短時間內於不同地點或陌生設備登入，疑似帳號遭盜用",
+  "margin_too_low": "安全水位不足",
+  "jackpot_or_pool_amount_below_safety_threshold_requires_topup": "Jackpot 或獎池金額低於設定安全水位，需補提",
+  "suspicious_bot": "BOT可疑",
+  "abnormal_bet_timing_and_amount_pattern_suspected_automation": "下注時間與金額模式異常固定，疑似自動化輔助"
+}

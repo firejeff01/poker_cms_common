@@ -1,0 +1,11 @@
+{
+  "new_registered": "新規登録プレイヤー",
+  "beginner": "初心者プレイヤー",
+  "junior": "初級プレイヤー",
+  "intermediate": "中級プレイヤー",
+  "senior": "上級プレイヤー",
+  "professional": "プロプレイヤー",
+  "expert": "エキスパートプレイヤー",
+  "top": "トッププレイヤー",
+  "none": "レベルは更新待ちです"
+}

@@ -1,0 +1,11 @@
+{
+  "new_registered": "Jugador recién registrado",
+  "beginner": "Principiante",
+  "junior": "Jugador junior",
+  "intermediate": "Jugador intermedio",
+  "senior": "Jugador avanzado",
+  "professional": "Jugador profesional",
+  "expert": "Experto",
+  "top": "Jugador top",
+  "none": "Nivel pendiente de actualización"
+}

@@ -1,0 +1,12 @@
+{
+  "high_card": "Старшая карта",
+  "one_pair": "Пара",
+  "two_pair": "Двойная пара",
+  "three_of_a_kind": "Санджо",
+  "straight": "Дзюнко",
+  "flush": "Тот же цветок",
+  "full_house": "тыква",
+  "four_of_a_kind": "Железная ветвь",
+  "straight_flush": "Румянец",
+  "royal_flush": "Флеш-рояль"
+}

@@ -1,0 +1,52 @@
+# 忽略 Visual Studio 生成的文件和資料夾
+# 禁止上傳Debug變更
+**/Debug/net8.0/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# 忽略 .NET 的資料夾
+.vs/
+.vscode/
+.idea/
+.nuget/
+
+# 忽略 ASP.NET Core 和 .NET 生成的臨時檔案
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# 忽略 NuGet 套件
+*.nupkg
+# 這裡可以忽略你本地的 NuGet 資料夾
+# ~/.nuget/packages
+
+# 忽略已經編譯的 .dll 和 .exe
+*.dll
+*.exe
+*.pdb
+
+# 忽略測試資料夾中的輸出
+TestResults/
+
+
+# 如果使用 Docker，可以忽略這些檔案
+Dockerfile
+docker-compose.override.yml
+
+# 忽略 IDE 配置檔案
+.idea/
+.vscode/
+
+# 忽略 Rider 編輯器的配置檔案
+.idea/
+
+# 忽略 Secrets 資料夾
+Secrets

@@ -1,0 +1,10 @@
+{
+  "system": "System",
+  "shop": "Shop",
+  "mail": "Mail",
+  "virtual_item": "Virtual Item",
+  "report": "Report",
+  "gm": "GM",
+  "private": "Private Message",
+  "other": "Other"
+}

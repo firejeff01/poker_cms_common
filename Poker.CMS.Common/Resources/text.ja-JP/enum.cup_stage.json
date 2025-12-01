@@ -1,0 +1,15 @@
+{
+  "no_started": "未開始",
+  "preliminary": "予選",
+  "money_bubble": "マネーバブル",
+  "in_the_money": "イン・ザ・マネー",
+  "final_table_bubble": "ファイナルテーブル・バブル",
+  "final_table": "ファイナルテーブル",
+  "results_finalized": "結果確定",
+  "payouts": "賞金支払い",
+  "leaderboard_display": "リーダーボード表示",
+  "cancel_cup": "トーナメント取消",
+  "refund_in_progress": "返金中",
+  "game_over": "トーナメント終了",
+  "invalid": "無効"
+}

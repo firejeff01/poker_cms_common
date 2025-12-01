@@ -1,0 +1,14 @@
+{
+  "general": "一般",
+  "warning": "警告",
+  "announcement": "公告",
+  "event": "活动",
+  "advertisement": "广告",
+  "purchase": "消费(例如商城消费)",
+  "reminder": "提醒",
+  "notification": "提示(例如新功能)",
+  "tutorial": "教学",
+  "bug_report": "错误回报",
+  "complaint": "投诉",
+  "other": "其他"
+}

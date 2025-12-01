@@ -1,0 +1,12 @@
+{
+  "high_card": "High Card",
+  "one_pair": "Pair",
+  "two_pair": "Double Pair",
+  "three_of_a_kind": "Sanjo",
+  "straight": "Junko",
+  "flush": "Same flower",
+  "full_house": "gourd",
+  "four_of_a_kind": "Iron Branch",
+  "straight_flush": "Flush",
+  "royal_flush": "Royal Flush"
+}

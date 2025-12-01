@@ -1,0 +1,12 @@
+{
+  "high_card": "Höchste Karte",
+  "one_pair": "Paar",
+  "two_pair": "Doppelpaar",
+  "three_of_a_kind": "Sanjo",
+  "straight": "Junko",
+  "flush": "Dieselbe Blume",
+  "full_house": "Kürbis",
+  "four_of_a_kind": "Eisenzweig",
+  "straight_flush": "Spülen",
+  "royal_flush": "Royal Flush"
+}

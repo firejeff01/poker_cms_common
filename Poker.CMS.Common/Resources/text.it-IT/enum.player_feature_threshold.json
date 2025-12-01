@@ -1,0 +1,11 @@
+{
+  "multi_account": "Mehrere Konten",
+  "shared_account": "Gemeinsame Konten",
+  "all_in_anomaly": "All-in Anomalie",
+  "one_way_chips": "Einweg Chip",
+  "tournament_anomaly": "Tournament Anomalie",
+  "suspicious_login": "Unbekannter Login",
+  "margin_too_low": "Margin zu niedrig",
+  "suspicious_bot": "Unbekannter Bot",
+  "player_level": "Spielerlevel"
+}

@@ -1,0 +1,10 @@
+{
+  "download": "download",
+  "insert": "Added",
+  "update": "edit",
+  "delete": "delete",
+  "sync": "synchronous",
+  "gm_command": "GM Instructions",
+  "login": "login",
+  "import": "import"
+}

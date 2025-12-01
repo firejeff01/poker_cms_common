@@ -1,0 +1,11 @@
+{
+  "multi_account": "多アカウント",
+  "shared_account": "共用アカウント",
+  "all_in_anomaly": "All-in異常",
+  "one_way_chips": "単向チップ",
+  "tournament_anomaly": "トーナメント異常",
+  "suspicious_login": "異地ログイン",
+  "margin_too_low": "安全水位不足",
+  "suspicious_bot": "BOT可疑",
+  "player_level": "プレイヤーレベル"
+}

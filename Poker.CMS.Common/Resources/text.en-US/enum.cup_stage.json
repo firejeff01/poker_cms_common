@@ -1,0 +1,15 @@
+{
+  "no_started": "Not Started",
+  "preliminary": "Preliminary",
+  "money_bubble": "Money Bubble",
+  "in_the_money": "In the Money",
+  "final_table_bubble": "Final Table Bubble",
+  "final_table": "Final Table",
+  "results_finalized": "Results Finalized",
+  "payouts": "Prize Payouts",
+  "leaderboard_display": "Leaderboard Display",
+  "cancel_cup": "Cancel Tournament",
+  "refund_in_progress": "Refunding",
+  "game_over": "Close Tournament",
+  "invalid": "Invalid"
+}

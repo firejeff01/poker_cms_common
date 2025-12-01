@@ -1,0 +1,10 @@
+{
+  "download": "scaricamento",
+  "insert": "Aggiunto",
+  "update": "modificare",
+  "delete": "eliminare",
+  "sync": "sincrono",
+  "gm_command": "Istruzioni GM",
+  "login": "login",
+  "import": "Importa"
+}

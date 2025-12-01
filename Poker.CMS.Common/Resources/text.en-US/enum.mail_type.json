@@ -1,0 +1,14 @@
+{
+  "general": "General",
+  "warning": "Warning",
+  "announcement": "Announcement",
+  "event": "Event",
+  "advertisement": "Advertisement",
+  "purchase": "Purchase",
+  "reminder": "Reminder",
+  "notification": "Notification",
+  "tutorial": "Tutorial",
+  "bug_report": "Bug Report",
+  "complaint": "Complaint",
+  "other": "Other"
+}

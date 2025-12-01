@@ -1,0 +1,15 @@
+{
+  "no_started": "尚未開打",
+  "preliminary": "初賽",
+  "money_bubble": "錢圈賽泡泡時間",
+  "in_the_money": "錢圈賽",
+  "final_table_bubble": "決賽泡泡時間",
+  "final_table": "決賽",
+  "results_finalized": "比賽結束排名次",
+  "payouts": "發送獎金",
+  "leaderboard_display": "展示排名",
+  "cancel_cup": "取消比賽",
+  "refund_in_progress": "退款中",
+  "game_over": "關閉錦標賽",
+  "invalid": "無效"
+}

@@ -1,0 +1,11 @@
+{
+  "multi_account": "多帐号",
+  "shared_account": "共用帐号",
+  "all_in_anomaly": "All-in 異常",
+  "one_way_chips": "单向让分",
+  "tournament_anomaly": "赛事異常",
+  "suspicious_login": "異地登入",
+  "margin_too_low": "安全水位不足",
+  "suspicious_bot": "BOT可疑",
+  "player_level": "玩家等级"
+}

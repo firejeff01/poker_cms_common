@@ -1,0 +1,12 @@
+{
+  "high_card": "Carta alta",
+  "one_pair": "Par",
+  "two_pair": "Doble par",
+  "three_of_a_kind": "Sanjo",
+  "straight": "Junko",
+  "flush": "La misma flor",
+  "full_house": "calabaza",
+  "four_of_a_kind": "Rama de hierro",
+  "straight_flush": "Enjuagar",
+  "royal_flush": "Escalera Real"
+}

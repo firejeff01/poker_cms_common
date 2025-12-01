@@ -1,0 +1,12 @@
+{
+  "high_card": "Carta alta",
+  "one_pair": "Paio",
+  "two_pair": "Doppia coppia",
+  "three_of_a_kind": "Sanjo",
+  "straight": "Junko",
+  "flush": "Lo stesso fiore",
+  "full_house": "zucca",
+  "four_of_a_kind": "Ramo di ferro",
+  "straight_flush": "Sciacquare",
+  "royal_flush": "Scala reale"
+}

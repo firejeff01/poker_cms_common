@@ -1,0 +1,44 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+   <PackageId>Poker.CMS.Common</PackageId>
+    <Version>0.0.268</Version>
+    <Authors>Milian Liao</Authors>
+    <Company>Skyray</Company>
+    <Description>Shared .NET library in team</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <RepositoryUrl>http://192.168.1.208/cms/poker_cms_common</RepositoryUrl>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <SdkAnalysisLevel>8.0.100</SdkAnalysisLevel>  <!-- Temporary workaround -->
+	<NoWarn>$(NoWarn);1591;IDE0290;;CS8618</NoWarn>
+	<!--  忽略沒有註解 1591的警告 -->
+	<!--  忽略建議使用 primary constructor IDE0290的警告 -->
+	<!--  CS8618 忽略 property NullReferenceException 警告 -->
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="8.0.15" />
+    <PackageReference Include="Microsoft.Extensions.Caching.Memory" Version="9.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="9.0.4" />
+    <PackageReference Include="Microsoft.Extensions.Hosting.Abstractions" Version="9.0.4" />
+    <PackageReference Include="Microsoft.Extensions.Localization" Version="9.0.0" />
+    <PackageReference Include="MongoDB.Driver" Version="3.3.0" />
+    <PackageReference Include="MySql.Data" Version="9.2.0" />
+    <PackageReference Include="NLog" Version="6.0.1" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="8.9.0" />  
+  </ItemGroup>
+  <ItemGroup>
+	<EmbeddedResource Include="Resources\**\*.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Secrets\" />
+  </ItemGroup>
+
+  <ItemGroup>
+		<FrameworkReference Include="Microsoft.AspNetCore.App" />
+  </ItemGroup>
+
+</Project>

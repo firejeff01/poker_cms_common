@@ -1,0 +1,14 @@
+{
+  "general": "一般",
+  "warning": "警告",
+  "announcement": "お知らせ",
+  "event": "イベント",
+  "advertisement": "広告",
+  "purchase": "購入（ショップなど）",
+  "reminder": "リマインダー",
+  "notification": "通知（新機能など）",
+  "tutorial": "チュートリアル",
+  "bug_report": "バグ報告",
+  "complaint": "通報",
+  "other": "その他"
+}

@@ -1,0 +1,12 @@
+{
+  "high_card": "高牌",
+  "one_pair": "对子",
+  "two_pair": "双对",
+  "three_of_a_kind": "三条",
+  "straight": "顺子",
+  "flush": "同一朵花",
+  "full_house": "葫芦",
+  "four_of_a_kind": "铁支",
+  "straight_flush": "同花顺",
+  "royal_flush": "同花大顺"
+}

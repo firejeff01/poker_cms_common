@@ -1,0 +1,13 @@
+{
+  "lobby": "Lobby del Texas Hold&#39;em",
+  "nlh": "Texas Hold&#39;em",
+  "six_plus": "Ponte corto",
+  "plo": "Omaha",
+  "aof_nlh": "All-in o Fold - Mano lunga",
+  "aof_plo": "All-In o Fold - Omaha",
+  "test_nlh": "Prova l&#39;Hall-Texas Hold&#39;em",
+  "test_six_plus": "Experience Hall-Short Card",
+  "test_plo": "Esperienza Hall-Omaha",
+  "test_aof_nlh": "Experience Hall-All-in Fold Long Card",
+  "test_aof_plo": "Experience Hall - All-in Fold Omaha"
+}

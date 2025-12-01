@@ -1,0 +1,11 @@
+{
+  "multi_account": "Много аккаунтов",
+  "shared_account": "Общий аккаунт",
+  "all_in_anomaly": "All-in аномалия",
+  "one_way_chips": "Однонаправленные чипы",
+  "tournament_anomaly": "Аномалия турнира",
+  "suspicious_login": "Подозрительный логин",
+  "margin_too_low": "Слишком низкая маржа",
+  "suspicious_bot": "Подозрительный бот",
+  "player_level": "Уровень игрока"
+}
